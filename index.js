@@ -3,9 +3,12 @@ alert("how u doing?");
 
 // function
 
-console.log("hello again" );
+console.log("hello again");
 console.log("is everything alright?");
 
-function sayHello () {
-    console.log("hello world");
+
+alert("warning...");
+
+const sayGoodBye = () => {
+    return "have a nice time...";
 }
