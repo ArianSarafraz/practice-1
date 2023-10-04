@@ -5,3 +5,7 @@ alert("how u doing?");
 
 console.log("hello again" );
 console.log("is everything alright?");
+
+function sayHello () {
+    console.log("hello world");
+}
